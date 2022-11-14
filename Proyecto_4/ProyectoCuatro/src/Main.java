@@ -21,7 +21,7 @@ public class Main {
                         matrix[i][j] = true;
                     }
                 }
-                System.out.println("" + matrix[i][j]"\n");
+                System.out.println("" + matrix[i][j]);
             }
             System.out.println();
 
